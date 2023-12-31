@@ -9,4 +9,4 @@ archived C++ repository (Algorithms and Data Structures). second term 2023.
 4. [Pelipeychenko Denis](https://github.com/Bazhenator/spbspu-labs-2023-aads-904-b/tree/pelipeychenko.denis)
 5. [Ponomarev Alexander](https://github.com/Bazhenator/spbspu-labs-2023-aads-904-b/tree/ponomarev.alexander/ponomarev.alexander)
 6. [Siobko Boris](https://github.com/Bazhenator/spbspu-labs-2023-aads-904-b/tree/siobko.boris/siobko.boris)
-> **Polytech, HSPI, FIIT, 2023.**
+> **Polytech, HSPE, FIIT, 2023.**
